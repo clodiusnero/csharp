@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\GitHub\game_of_life\game_of_life_1\bin\Debug\game_of_life_1.exe.config
+C:\Users\admin\Documents\GitHub\game_of_life\game_of_life_1\bin\Debug\game_of_life_1.exe
+C:\Users\admin\Documents\GitHub\game_of_life\game_of_life_1\bin\Debug\game_of_life_1.pdb
+C:\Users\admin\Documents\GitHub\game_of_life\game_of_life_1\obj\Debug\game_of_life_1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\game_of_life\game_of_life_1\obj\Debug\game_of_life_1.exe
+C:\Users\admin\Documents\GitHub\game_of_life\game_of_life_1\obj\Debug\game_of_life_1.pdb
