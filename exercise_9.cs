@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
-namespace exercise
+namespace exercise_9
 {
     class Logger
     {

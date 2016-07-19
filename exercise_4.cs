@@ -1,6 +1,6 @@
 using System;
 
-namespace exercise
+namespace exercise_4
 {
     class Account
     {

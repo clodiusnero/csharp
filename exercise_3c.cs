@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace exercise
+namespace exercise_3c
 {
     
     class Program

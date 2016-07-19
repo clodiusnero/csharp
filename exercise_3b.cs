@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace exercise
+namespace exercise_3b
 {
     class Program
     {

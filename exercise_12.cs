@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exercise
+namespace exercise_12
 {
     class Logger : ILogger
     {
